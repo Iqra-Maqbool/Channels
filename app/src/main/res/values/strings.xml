@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Channels</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Please_Fill_All_Field">Please Fill All Fields</string>
+    <string name="Login_successful">Login successful</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+</resources>
